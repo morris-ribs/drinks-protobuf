@@ -8,7 +8,8 @@ It is an API used to manage a list of drinks in a file.
 
 1. Install Go: https://golang.org/dl/
 2. Download protobuf packages for Protocol Buffers in Go (here we use proto3 syntax):  https://developers.google.com/protocol-buffers/docs/gotutorial#compiling-your-protocol-buffers
-3. Create empty files 'testfile' (for logging) and 'test.1' (to save the drinks) in C root directory 
+3. Create an empty files 'testfile' (for logging) in your C:\ root directory 
+4. Copy the file 'test.1' (to save the drinks) to your C:\ root directory
 
 # Run the server
 In the root folder of the solution, run `$ go run main.go`
